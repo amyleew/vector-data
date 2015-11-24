@@ -1,0 +1,28 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: ''
+  rev: ''
+  saveCenter: true
+attribution: ''
+center: 
+  - 0
+  - 0
+  - 1
+description: ''
+Layer: 
+  - id: world_canvas
+    Datasource: 
+      file: /Users/amyleewalton/amyleew/_repo/vector-data/_data/ne_50m_wgs84_bounding_box.geojson
+      layer: ne_50m_wgs84_bounding_box
+      type: geojson
+    description: ''
+    fields: 
+      featureclass: String
+      scalerank: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 6
+minzoom: 0
+name: ''

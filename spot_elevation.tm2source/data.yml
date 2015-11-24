@@ -1,0 +1,34 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: ''
+  rev: ''
+  saveCenter: true
+attribution: ''
+center: 
+  - -121.5799
+  - 44.1857
+  - 10
+description: ''
+Layer: 
+  - id: S_USA_SpotElevation_X
+    Datasource: 
+      file: /Users/amyleewalton/Downloads/S_USA.SpotElevation_X/S_USA.SpotElevation_X.shp
+      type: shape
+    description: ''
+    fields: 
+      CREATEDATE: String
+      CREATOR: String
+      ELEVATION: Number
+      FCSUBTYPE: Number
+      GNIS_ID: String
+      LASTMODBY: String
+      LASTMODDAT: String
+      NAME: String
+      SOURCE: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 10
+minzoom: 10
+name: USA Spot Elevation

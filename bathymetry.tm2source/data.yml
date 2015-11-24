@@ -1,0 +1,158 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: mslee.f67c1615
+  rev: s-d85c68fa
+  saveCenter: true
+attribution: ''
+center: 
+  - -164.6191
+  - -5.8783
+  - 4
+description: ''
+Layer: 
+  - id: ne_10m_bathymetry_A_10000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_A_10000/ne_10m_bathymetry_A_10000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 128
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_B_9000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_B_9000/ne_10m_bathymetry_B_9000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_C_8000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_C_8000/ne_10m_bathymetry_C_8000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_D_7000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_D_7000/ne_10m_bathymetry_D_7000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_E_6000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_E_6000/ne_10m_bathymetry_E_6000.shp
+      type: shape
+    description: ''
+    fields: 
+      FID: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_F_5000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_F_5000/ne_10m_bathymetry_F_5000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_G_4000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_G_4000/ne_10m_bathymetry_G_4000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_H_3000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_H_3000/ne_10m_bathymetry_H_3000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_I_2000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_I_2000/ne_10m_bathymetry_I_2000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_J_1000
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_J_1000/ne_10m_bathymetry_J_1000.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_K_200
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_K_200/ne_10m_bathymetry_K_200.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_bathymetry_L_0
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_L_0/ne_10m_bathymetry_L_0.shp
+      type: shape
+    description: ''
+    fields: 
+      depth: Number
+      featurecla: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 7
+minzoom: 0
+name: Bathymetry

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="center">-164.6191,-5.8783,4</Parameter>
+  <Parameter name="format">pbf</Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"ne_10m_bathymetry_A_10000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_B_9000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_C_8000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_D_7000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_E_6000","description":"","fields":{"FID":"Number"}},{"id":"ne_10m_bathymetry_F_5000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_G_4000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_H_3000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_I_2000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_J_1000","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_K_200","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}},{"id":"ne_10m_bathymetry_L_0","description":"","fields":{"scalerank":"Number","featurecla":"String","depth":"Number"}}]}]]></Parameter>
+  <Parameter name="maxzoom">7</Parameter>
+  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="name"><![CDATA[Bathymetry]]></Parameter>
+</Parameters>
+
+
+<Layer name="ne_10m_bathymetry_A_10000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_A_10000/ne_10m_bathymetry_A_10000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_B_9000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_B_9000/ne_10m_bathymetry_B_9000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_C_8000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_C_8000/ne_10m_bathymetry_C_8000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_D_7000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_D_7000/ne_10m_bathymetry_D_7000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_E_6000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_E_6000/ne_10m_bathymetry_E_6000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_F_5000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_F_5000/ne_10m_bathymetry_F_5000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_G_4000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_G_4000/ne_10m_bathymetry_G_4000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_H_3000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_H_3000/ne_10m_bathymetry_H_3000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_I_2000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_I_2000/ne_10m_bathymetry_I_2000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_J_1000"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_J_1000/ne_10m_bathymetry_J_1000.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_K_200"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_K_200/ne_10m_bathymetry_K_200.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="ne_10m_bathymetry_L_0"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Desktop/KIT/data/ne_10m_bathymetry_all/ne_10m_bathymetry_L_0/ne_10m_bathymetry_L_0.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>

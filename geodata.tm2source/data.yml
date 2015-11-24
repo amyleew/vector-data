@@ -1,0 +1,36 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: ''
+  rev: ''
+  saveCenter: true
+attribution: ''
+center: 
+  - -109.1162
+  - 45.213
+  - 4
+description: ''
+Layer: 
+  - id: S_USA_Boundary_L
+    Datasource: 
+      file: /Users/amyleewalton/Downloads/S_USA.Boundary_L/S_USA.Boundary_L.shp
+      type: shape
+    description: ''
+    fields: 
+      CFF_CODE: Number
+      CFF_CODELI: String
+      CREATEDATE: String
+      CREATOR: String
+      FCSUBTYPE: Number
+      GNIS_ID: String
+      LASTMODBY: String
+      LASTMODDAT: String
+      NAME: String
+      SHAPE_LEN: Number
+      SOURCE: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=GRS80 +no_defs
+maxzoom: 13
+minzoom: 0
+name: USA Boundary

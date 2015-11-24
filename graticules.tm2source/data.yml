@@ -1,0 +1,114 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: mslee.0fc2f90a
+  rev: s-232d8734
+  saveCenter: true
+attribution: ''
+center: 
+  - -0.3516
+  - 0.3516
+  - 1
+description: ''
+Layer: 
+  - id: ne_10m_wgs84_bounding_box
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_wgs84_bounding_box/ne_10m_wgs84_bounding_box.shp
+      type: shape
+    description: ''
+    fields: 
+      FEATURECLA: String
+      SCALERANK: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_5
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_5/ne_10m_graticules_5.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      recnum: Number
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_1
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_1/ne_10m_graticules_1.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_30
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_30/ne_10m_graticules_30.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      recnum: Number
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_20
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_20/ne_10m_graticules_20.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      recnum: Number
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_15
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_15/ne_10m_graticules_15.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: ne_10m_graticules_10
+    Datasource: 
+      file: /Users/amyleewalton/Desktop/KIT/data/ne_10m_graticules_all/ne_10m_graticules_10/ne_10m_graticules_10.shp
+      type: shape
+    description: ''
+    fields: 
+      dd: Number
+      degrees: Number
+      direction: String
+      display: String
+      scalerank: Number
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 7
+minzoom: 0
+name: Graticules

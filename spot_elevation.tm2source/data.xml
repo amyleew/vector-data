@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="center">-121.5799,44.1857,10</Parameter>
+  <Parameter name="format">pbf</Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"S_USA_SpotElevation_X","description":"","fields":{"NAME":"String","SOURCE":"String","GNIS_ID":"String","FCSUBTYPE":"Number","CREATOR":"String","CREATEDATE":"String","LASTMODBY":"String","LASTMODDAT":"String","ELEVATION":"Number"}}]}]]></Parameter>
+  <Parameter name="maxzoom">10</Parameter>
+  <Parameter name="minzoom">10</Parameter>
+  <Parameter name="name"><![CDATA[USA Spot Elevation]]></Parameter>
+</Parameters>
+
+
+<Layer name="S_USA_SpotElevation_X"
+  buffer-size="8"
+  srs="+proj=longlat +ellps=GRS80 +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/amyleewalton/Downloads/S_USA.SpotElevation_X/S_USA.SpotElevation_X.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>
