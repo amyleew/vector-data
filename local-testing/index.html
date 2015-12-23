@@ -34,6 +34,7 @@ window.setInterval(function() {
 }, 2000);
 
 map.on('style.load', function () {
+  map.removeSource('mapbox');
   map.addSource('mapbox', source);
 });
 </script>
